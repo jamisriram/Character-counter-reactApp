@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Character-counter-reactApp/static/css/main.2d41c1e5.css",
+    "main.js": "/Character-counter-reactApp/static/js/main.0e3b9f34.js",
+    "static/js/453.d3fe8a3c.chunk.js": "/Character-counter-reactApp/static/js/453.d3fe8a3c.chunk.js",
+    "index.html": "/Character-counter-reactApp/index.html",
+    "main.2d41c1e5.css.map": "/Character-counter-reactApp/static/css/main.2d41c1e5.css.map",
+    "main.0e3b9f34.js.map": "/Character-counter-reactApp/static/js/main.0e3b9f34.js.map",
+    "453.d3fe8a3c.chunk.js.map": "/Character-counter-reactApp/static/js/453.d3fe8a3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d41c1e5.css",
+    "static/js/main.0e3b9f34.js"
+  ]
+}
